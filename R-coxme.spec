@@ -4,7 +4,7 @@
 Name:             R-%{packname}
 Version:          2.2_1
 Release:          1
-Summary:          Mixed Effects Cox Models.
+Summary:          Mixed Effects Cox Models
 Group:            Sciences/Mathematics
 License:          GPL-2
 URL:              http://cran.r-project.org/web/packages/%{packname}/index.html
