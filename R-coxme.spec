@@ -9,10 +9,10 @@ Group:            Sciences/Mathematics
 License:          GPL-2
 URL:              http://cran.r-project.org/web/packages/%{packname}/index.html
 Source0:          http://cran.r-project.org/src/contrib/%{packname}_2.2-1.tar.gz
-Requires:         R-survival R-bdsmatrix R-nlme R-Matrix R-methods 
-Requires:         R-mvtnorm R-kinship2 
-BuildRequires:    R-devel Rmath-devel texlive-collection-latex R-survival R-bdsmatrix R-nlme R-Matrix R-methods
-BuildRequires:    R-mvtnorm R-kinship2 
+Requires:         R-survival R-bdsmatrix R-nlme R-Matrix R-methods
+Requires:         R-mvtnorm R-kinship2
+BuildRequires:    R-devel Rmath-devel texlive-collection-latex R-survival
+BuildRequires:    R-bdsmatrix R-nlme R-Matrix R-methods R-mvtnorm R-kinship2
 
 %description
 Cox proportional hazards models containing Gaussian random effects, also
