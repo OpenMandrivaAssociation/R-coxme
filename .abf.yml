@@ -1,2 +1,4 @@
+removed_sources:
+  coxme_2.2-1.tar.gz: 901db315d288498fc8b8fcceac1881f8f404f73e
 sources:
-  "coxme_2.2-1.tar.gz:"	901db315d288498fc8b8fcceac1881f8f404f73e
+  coxme_2.2-3.tar.gz: 50e746639a47c8c0b3ef420c0e58e38bb38e5707

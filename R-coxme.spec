@@ -2,13 +2,13 @@
 %global rlibdir  %{_libdir}/R/library
 
 Name:             R-%{packname}
-Version:          2.2_1
+Version:          2.2.3
 Release:          1
 Summary:          Mixed Effects Cox Models
 Group:            Sciences/Mathematics
 License:          GPL-2
 URL:              http://cran.r-project.org/web/packages/%{packname}/index.html
-Source0:          http://cran.r-project.org/src/contrib/%{packname}_2.2-1.tar.gz
+Source0:          http://cran.r-project.org/src/contrib/coxme_2.2-3.tar.gz
 Requires:         R-survival R-bdsmatrix R-nlme R-Matrix R-methods
 Requires:         R-mvtnorm R-kinship2
 BuildRequires:    R-devel Rmath-devel texlive-collection-latex R-survival
